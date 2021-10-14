@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_SampleWeatherReport/static/css/main.9cef30de.chunk.css",
+    "main.js": "/React_SampleWeatherReport/static/js/main.0c0763b9.chunk.js",
+    "main.js.map": "/React_SampleWeatherReport/static/js/main.0c0763b9.chunk.js.map",
+    "runtime-main.js": "/React_SampleWeatherReport/static/js/runtime-main.5fe40d81.js",
+    "runtime-main.js.map": "/React_SampleWeatherReport/static/js/runtime-main.5fe40d81.js.map",
+    "static/css/2.b61c2097.chunk.css": "/React_SampleWeatherReport/static/css/2.b61c2097.chunk.css",
+    "static/js/2.171241fa.chunk.js": "/React_SampleWeatherReport/static/js/2.171241fa.chunk.js",
+    "static/js/2.171241fa.chunk.js.map": "/React_SampleWeatherReport/static/js/2.171241fa.chunk.js.map",
+    "static/js/3.1fbc28d4.chunk.js": "/React_SampleWeatherReport/static/js/3.1fbc28d4.chunk.js",
+    "static/js/3.1fbc28d4.chunk.js.map": "/React_SampleWeatherReport/static/js/3.1fbc28d4.chunk.js.map",
+    "index.html": "/React_SampleWeatherReport/index.html",
+    "static/css/2.b61c2097.chunk.css.map": "/React_SampleWeatherReport/static/css/2.b61c2097.chunk.css.map",
+    "static/css/main.9cef30de.chunk.css.map": "/React_SampleWeatherReport/static/css/main.9cef30de.chunk.css.map",
+    "static/js/2.171241fa.chunk.js.LICENSE.txt": "/React_SampleWeatherReport/static/js/2.171241fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React_SampleWeatherReport/static/media/warm-bg.a7f83012.jpg",
+    "static/media/font-awesome.css": "/React_SampleWeatherReport/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fe40d81.js",
+    "static/css/2.b61c2097.chunk.css",
+    "static/js/2.171241fa.chunk.js",
+    "static/css/main.9cef30de.chunk.css",
+    "static/js/main.0c0763b9.chunk.js"
+  ]
+}
